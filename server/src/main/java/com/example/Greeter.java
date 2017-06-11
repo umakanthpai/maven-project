@@ -9,7 +9,7 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-	System.out.printlnxxx("Trigger build success");
+	System.out.println("Trigger build success");
   }
 
   //TODO: Add javadoc comment
